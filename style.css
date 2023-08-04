@@ -1,0 +1,91 @@
+.conteiner{
+    position: absolute;
+    top: 20%;
+    left: 0%;
+    display: flex;
+    justify-content: center;
+    width: 2000px;
+    height: 400px;
+
+}
+
+body{
+    background-color: rgb(91, 91, 202);
+}
+
+.teclas{
+    position: relative;
+    background-color: white;
+    height: 400px;
+    width: 100px;
+}
+
+.negrita1{
+    position: absolute;
+    z-index: 1;
+    left: 34%;
+    height: 110px;
+    width: 40px;
+    background-color: black;
+    color: white; 
+}
+
+.negrita2{
+    position: absolute;
+    z-index: 1;
+    left: 39%;
+    height: 110px;
+    width: 40px;
+    background-color: black;
+    color: white; 
+}
+
+.negrita3{
+    position: absolute;
+    z-index: 1;
+    left: 49%;
+    height: 110px;
+    width: 40px;
+    background-color: black;
+    color: white; 
+}
+
+.negrita4{
+    position: absolute;
+    z-index: 1;
+    left: 54%;
+    height: 110px;
+    width: 40px;
+    background-color: black;
+    color: white; 
+}
+
+.negrita5{
+    position: absolute;
+    z-index: 1;
+    left: 59%;
+    height: 110px;
+    width: 40px;
+    background-color: black;
+    color: white; 
+}
+
+.negrita6{
+    position: absolute;
+    z-index: 1;
+    left: 69%;
+    height: 110px;
+    width: 40px;
+    background-color: black;
+    color: white; 
+}
+
+ .play{
+    font-size:x-large;
+    display: flex;
+    width: 5%;
+    
+    background-color: rgb(43, 46, 226);
+    color: white;
+  
+ }
